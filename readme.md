@@ -1,6 +1,6 @@
-# mks-Bauteil
+# Taster (Grove)
 
-![Bauteil](./bauteil.png)
+![Bauteil](https://makeyourschool.de/wp-content/uploads/2018/10/60_taster_knopf_platine-1024x1024.jpg)
 <!-- TODO: CONTENT change image -->
 <!-- TODO: ARCHITECTURE multiple images? -->
 <!-- do we need multiple images per part?-->
@@ -8,33 +8,32 @@
 
 ## Beschreibung
 
-kurz-Beschreibung
+ein einfacher Taster.
+auf einer Platine mit einem Grove-Buchse verlötete.
+dadurch ist der Anschluss super einfach :-)
 
 ## Anschlüsse
 
 ### Eingang
 
--   I2C
+-   Mechanische Betätigung
 
 ### Ausgang
 
--   High Power / High Voltage
+-   5V Signal (auf Grove Buchse)
 
 ## Kurz-Datenblatt
 
--   Signal Eingang: 3-5V
--   Betriebsspannung: 5-12V
--   Ausgang Strom Max: 2A
+-   Betriebsspannung: 3.3-5V
 
 ## Siehe Auch
 
--   falls vorhanden link zu anderem Bauteil / zugehörigem part
+-   -
 
 
 
 ## library
-um dieses Bauteil zu benutzen verwende / installiere bitte diese Library: LibraryName
-<!-- TODO: CONTENT change library name -->
+keine library nötig.
 
 ## Beispiel
 
